@@ -341,12 +341,15 @@ We set the jest configuration file `testmatch: ['< rootdir >/test/**/*.spec.js']
 
 ## 3. Test Result
 Result with excel
+
 ![excel report](https://segmentfault.com/img/bVcYD2E)
 
 Result with html
+
 ![html report](https://segmentfault.com/img/bVcYD2D)
 
 Error info showing
+
 ![error show](https://segmentfault.com/img/bVcYENP)
 
 
